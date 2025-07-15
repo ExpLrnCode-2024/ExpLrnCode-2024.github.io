@@ -11,6 +11,14 @@ website:
     left:
       - href: about.qmd
         text: About
+      - text: Guides
+      - text: Resources
+        menu:
+          - resources/survey.md
+          - resources/participant_info_consent.md
+          - resources/interview_guide.md
+          - resources/for_interviewers.md
+      - text: FAQs
     right:
       - icon: github
         href: "https://github.com/seapolc-2024/seapolc-2024.github.io"
