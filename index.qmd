@@ -3,6 +3,9 @@ title: Student Experiences and Perspectives on Learning to Code in 2024
 
 toc: false
 number-sections: false
+
+metadata-files:
+  - metadata/authors.yml
 ---
 
 ### Site contents

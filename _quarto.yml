@@ -18,7 +18,8 @@ website:
           - resources/participant_info_consent.md
           - resources/interview_guide.md
           - resources/for_interviewers.md
-      - text: FAQs
+      - text: FAQ
+        href: faq.md
     right:
       - icon: github
         href: "https://github.com/seapolc-2024/seapolc-2024.github.io"
@@ -39,6 +40,5 @@ execute:
 
 # Source shared metadata from these files
 metadata-files:
-  - metadata/authors.yml
   - metadata/format.yml
   - metadata/meta.yml
