@@ -4,9 +4,9 @@
 *.jpg
 *.jpeg
 
-.quarto/
+/.quarto/
+/_site/
 _freeze/
-_site/
 *_files/
 
 .obsidian/

@@ -1,0 +1,3 @@
+[submodule "metadata"]
+	path = metadata
+	url = https://github.com/seapolc-2024/metadata

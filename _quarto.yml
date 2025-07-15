@@ -2,34 +2,6 @@ project:
   type: website
   output-dir: _site
 
-# Metadata shared by all documents
-date: last-modified
-date-format: long
-date-modified: last-modified
-copyright: University of Edinburgh, 2025
-license: CC BY
-bibliography: references.bib
-csl: apa.csl
-
-# Format config shared by all documents
-number-sections: true
-number-depth: 4
-tbl-cap-location: bottom
-toc: true
-toc-depth: 4
-format:
-  html:
-    code-annotations: hover
-    code-overflow: wrap
-    embed-resources: true
-    highlight-style: github
-    html-math-method: mathjax
-    repo-actions: source
-    toc-location: right
-    theme:
-      light: flatly
-      dark: darkly
-
 # Website config
 website:
   title: Student Experiences and Perspectives on Learning to Code in 2024
@@ -57,7 +29,8 @@ website:
 execute:
   freeze: auto
 
-# Source author and citation info from these files
+# Source shared metadata from these files
 metadata-files:
-  - authors.yml
-  #- citation.yml
+  - metadata/authors.yml
+  - metadata/format.yml
+  - metadata/meta.yml
