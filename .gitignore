@@ -1,0 +1,12 @@
+*.html
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+.quarto/
+_freeze/
+_site/
+*_files/
+
+.obsidian/
