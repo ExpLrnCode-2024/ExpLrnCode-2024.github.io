@@ -19,10 +19,10 @@ website:
           - text: Methods paper
       - text: Research Materials
         menu: 
-          - resources/survey.md
-          - resources/participant_info.md
-          - resources/interview_guide.md
-          - resources/for_interviewers.md
+          - research-materials/survey.md
+          - research-materials/participant_info.md
+          - research-materials/interview_guide.md
+          - research-materials/for_interviewers.md
       - text: FAQ
         href: faq.md
     right:
