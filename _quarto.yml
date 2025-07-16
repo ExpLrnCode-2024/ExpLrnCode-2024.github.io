@@ -4,34 +4,43 @@ project:
 
 # Website config
 website:
-  title: Student Experiences and Perspectives on Learning to Code in 2024
+  title: Experiences of Learning to Code
 
   navbar:
-    #logo: logo.png
+    logo: metadata/favicon.png
     left:
       - href: about.qmd
         text: About
-      - text: Resources
+      - text: Outputs
         menu:
+          - text: Article
+          - text: Presentation
+          - text: Teaching Matters blog post
+          - text: Methods paper
+      - text: Research Materials
+        menu: 
           - resources/survey.md
-          - resources/participant_info_consent.md
+          - resources/participant_info.md
           - resources/interview_guide.md
           - resources/for_interviewers.md
       - text: FAQ
         href: faq.md
     right:
       - icon: github
-        href: "https://github.com/seapolc-2024/seapolc-2024.github.io"
+        href: "https://github.com/ExpLrnCode-2024/ExpLrnCode-2024.github.io"
         target: _blank
-      - text: |
-          {{< iconify simple-icons:zenodo size=huge >}}
-        aria-label: Zenodo
-        href: "https://doi.org/10.5281/zenodo.xxxxxxxx"
-        target: _blank
+    #tools:
 
-  #favicon: /logos/biodt_circle.png
-  site-url: https://seapolc-2024.github.io
-  repo-url: https://github.com/seapolc-2024/seapolc-2024.github.io
+  favicon: metadata/favicon.png
+  site-url: https://ExpLrnCode-2024.github.io
+  repo-url: https://github.com/ExpLrnCode-2024/ExpLrnCode-2024.github.io
+  #repo-actions: [source]
+
+  page-footer:
+    border: true
+    background: light
+    left: |
+      [![](metadata/SoPA.png){fig-alt="SoPA logo" width=400px}](https://www.ph.ed.ac.uk/)
   
 # Re-compute only when source changes
 execute:
