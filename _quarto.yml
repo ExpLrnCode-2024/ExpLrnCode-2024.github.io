@@ -38,7 +38,9 @@ website:
     background: light
     left: |
       [![](metadata/SoPA.png){fig-alt="SoPA logo" width=400px}](https://www.ph.ed.ac.uk/)
-  
+    right: |
+      [![](metadata/iad.png){fig-alt="IAD logo" width=250px}](https://institute-academic-development.ed.ac.uk/)
+
 # Re-compute only when source changes
 execute:
   freeze: auto
