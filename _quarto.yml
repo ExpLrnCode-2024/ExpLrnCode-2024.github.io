@@ -9,22 +9,17 @@ website:
   navbar:
     logo: metadata/favicon.png
     left:
-      - text: Background
-        href: background.qmd
+      - text: Proposal
       - text: Methods
       - text: Materials
-        menu: 
-          - research-materials/survey.md
-          - research-materials/participant_info.md
-          - research-materials/interview_guide.md
-          - research-materials/for_interviewers.md
       - text: Results
       - text: Outputs
         menu:
-          - text: Article
-          - text: Presentation
+          - text: Article ↗️
+          - text: ↗️ Presentation
           - text: Teaching Matters blog post
           - text: Methods paper
+      - text: Code & Data
       - text: FAQ
         href: faq.md
     right:

@@ -1,6 +1,0 @@
-[submodule "metadata"]
-	path = metadata
-	url = https://github.com/seapolc-2024/metadata
-[submodule "research-materials"]
-	path = research-materials
-	url = https://github.com/ExpLrnCode-2024/research-materials
