@@ -6,32 +6,48 @@ project:
 website:
   title: Experiences of Learning to Code
 
+  announcement: 
+    content: This site is a work in progress - some links won't yet work! (27/08/2025)
+    type: warning
+    icon: exclamation-circle
+
   navbar:
     logo: metadata/favicon.png
     left:
-      - text: Proposal
-      - text: Methods
-      - text: Materials
-      - text: Results
-      - text: Outputs
+      - text: Home
+        href: index.qmd
+      - text: Project Overview
+        href: project.qmd
+      - text: Resources for Researchers
         menu:
-          - text: Article ↗️
-          - text: ↗️ Presentation
-          - text: Teaching Matters blog post
-          - text: Methods paper
+          - text: Project Proposal
+            href: proposal/proposal.md
+          - text: Interview Sign-up Survey
+            href: jisc-surveys/survey.md
+          - text: Participant Information & Informed Consent
+            href: jisc-surveys/participant_info.md
+          - text: Instructions for Interviewers
+            href: interview-resources/instructions.md
+          - text: Interview Guide
+            href: interview-resources/interview_guide.md
+          - text: Reading List
+            href: reading_list.md
+      - text: Publications & Media
+        #menu:
+          #- text: ↗ Article
+          #- text: ↗ Presentation
+          #- text: ↗ Teaching Matters blog post
+          #- text: ↗ Methods paper
       - text: Code & Data
-      - text: FAQ
-        href: faq.md
+
     right:
       - icon: github
         href: "https://github.com/ExpLrnCode-2024/ExpLrnCode-2024.github.io"
         target: _blank
-    #tools:
 
   favicon: metadata/favicon.png
   site-url: https://ExpLrnCode-2024.github.io
   repo-url: https://github.com/ExpLrnCode-2024/ExpLrnCode-2024.github.io
-  #repo-actions: [source]
 
   page-footer:
     border: true
@@ -48,4 +64,3 @@ execute:
 # Source shared metadata from these files
 metadata-files:
   - metadata/format.yml
-  - metadata/meta.yml

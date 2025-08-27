@@ -1,3 +1,12 @@
 [submodule "metadata"]
 	path = metadata
 	url = https://github.com/ExpLrnCode-2024/metadata
+[submodule "jisc-surveys"]
+	path = jisc-surveys
+	url = https://github.com/ExpLrnCode-2024/jisc-surveys
+[submodule "interview-resources"]
+	path = interview-resources
+	url = https://github.com/ExpLrnCode-2024/interview-resources
+[submodule "proposal"]
+	path = proposal
+	url = https://github.com/ExpLrnCode-2024/proposal

@@ -1,0 +1,22 @@
+---
+title: Project Overview
+subtitle: Experiences of Learning to Code
+date: last-modified
+metadata-files:
+  - metadata/authors-joe.yml
+  - metadata/meta.yml
+---
+
+## Introduction
+
+
+## Methods
+
+
+## Key Findings
+
+
+## Further Reading
+
+
+<!-- {{< include metadata/_endmatter.qmd >}} -->

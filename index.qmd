@@ -1,15 +1,18 @@
 ---
-title: Student Experiences and Perspectives on Learning to Code in 2024
-
-toc: false
+title: Experiences of Learning to Code
+subtitle: Perspectives of Undergraduate Physics Students in 2024
+date: last-modified
 number-sections: false
-
+toc: false
+format-links: false
 metadata-files:
   - metadata/authors-all.yml
+  - metadata/meta.yml
 ---
 
-### Site contents
+## Site overview
+
+...
 
 
-
-{{< include metadata/_endmatter.qmd >}}
+<!-- {{< include metadata/_endmatter.qmd >}} -->
