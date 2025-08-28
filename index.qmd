@@ -10,9 +10,31 @@ metadata-files:
   - metadata/meta.yml
 ---
 
-## Site overview
+### About this site
 
-...
+This site provides access to research materials and outputs produced during the _"Experiences of Learning to Code"_ project, which was run by a staff-student collaboration in the School of Physics & Astronomy at the University of Edinburgh from June--December 2024.
+
+The site contains the following contents, navigable via the top panel.
+
+- [Project Overview](project.html): a concise overview of the aims, methods and key results of the project.
+
+- [Resources for Researchers]{.underline}:
+
+  - [Project Proposal](proposal/proposal.html): the original proposal submitted to the Principle’s Teaching Award Scheme (PTAS) in March 2024.
+
+  - [Interview Sign-up Survey](jisc-surveys/survey/html): the Jisc survey disseminated in September 2024, which enabled undergraduate physics students to put themselves forward for interview.
+
+  - [Participant Information & Informed Consent](jisc-surveys/participant_info.html): the combined Participant Information and Informed Consent form, which students were required to have completed prior to their interview.
+
+  - [Instructions for Interviewers](interview-resources/instructions.html): step-by-step instructions for conducting 1-1 interviews with students over Microsoft Teams, starting from the point of first contact with the selected student, and ending with instructions on how to redact and format the Microsoft Teams transcript, ready for analysis.
+
+  - [Interview Guide](interview-resources/interview_guide.html): the interview guide used by interviewers during interviews with students.
+
+  - [Reading List](reading_list.html): a list of references which we found useful during this work.
+
+- [Publications & Media]{.underline}: a work in progress!
+
+- [Code & Data](code_data.html): this page describes and locates the various code and data artifacts produced during the project.
 
 
-<!-- {{< include metadata/_endmatter.qmd >}} -->
+{{< include metadata/_endmatter.qmd >}}

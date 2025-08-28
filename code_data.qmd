@@ -1,0 +1,37 @@
+---
+title: Code & Data
+subtitle: Experiences of Learning to Code
+date: last-modified
+format-links: false
+number-sections: false
+toc: false
+metadata-files:
+  - metadata/authors-joe.yml
+  - metadata/meta.yml
+
+abstract: |
+  This page describes and locates the various code and data artifacts produced during the project.
+---
+
+### Privacy considerations
+
+Where research involves real human lives, there can be a tension between the transparency and reproducibility goals of the researcher, and the obligation to take every reasonable precaution to protect the privacy and security of the people involved.
+
+We sought to strike a balance; we intend to publish a collection of the most relevant sections of interviews, after making certain to redact potentially identifiable or irrelevant information, but not the interviews in their entirety.
+
+This is in line with the [informed consent form](jisc-surveys/participant_info.html) signed by all participants prior to their interview, which gives permission to publish _"sections of the interview"_ in _"research outputs and websites"_.
+
+The full interview transcripts will **not** be made public at any time.
+
+<!-- To discuss: do we believe that participants meaningfully consented to having their conversations analysed by an algorithm? I do not think so. Moreover it raises the likelihood of identifying an individual through mechanisms that would be considered a negligible risk otherwise. I am leaning towards believing we should not publish even the redacted set of quotes, but make them available upon request to researchers whose approach to research is compatible with this stance. -->
+
+### Available code & data
+
+- Survey json x2
+- Survey data
+- Code for analysing and visualising survey data
+- Dataset of quotes (unsure if this will be published or available on request)
+- Teams transcript formatter
+
+
+{{< include metadata/_endmatter.qmd >}}

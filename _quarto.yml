@@ -7,15 +7,13 @@ website:
   title: Experiences of Learning to Code
 
   announcement: 
-    content: This site is a work in progress - some links won't yet work! (27/08/2025)
+    content: This site is a work in progress - some links won't work and content is missing! (27/08/2025)
     type: warning
     icon: exclamation-circle
 
   navbar:
     logo: metadata/favicon.png
     left:
-      - text: Home
-        href: index.qmd
       - text: Project Overview
         href: project.qmd
       - text: Resources for Researchers
@@ -39,6 +37,7 @@ website:
           #- text: ↗ Teaching Matters blog post
           #- text: ↗ Methods paper
       - text: Code & Data
+        href: code_data.qmd
 
     right:
       - icon: github
@@ -53,9 +52,9 @@ website:
     border: true
     background: light
     left: |
-      [![](metadata/SoPA.png){fig-alt="SoPA logo" width=400px}](https://www.ph.ed.ac.uk/)
+      [![](metadata/SoPA.png){fig-alt="SoPA logo" width=350px}](https://www.ph.ed.ac.uk/)
     right: |
-      [![](metadata/iad.png){fig-alt="IAD logo" width=250px}](https://institute-academic-development.ed.ac.uk/)
+      [![](metadata/iad.png){fig-alt="IAD logo" width=200px}](https://institute-academic-development.ed.ac.uk/)
 
 # Re-compute only when source changes
 execute:

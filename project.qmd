@@ -2,21 +2,44 @@
 title: Project Overview
 subtitle: Experiences of Learning to Code
 date: last-modified
+format-links: false
 metadata-files:
   - metadata/authors-joe.yml
   - metadata/meta.yml
+
+abstract: |
+  This page provides a concise overview of the project aims, methods and headline results.
 ---
 
 ## Introduction
 
+This study sought to understand how the experiences of undergraduate physics students taking programming courses at the University of Edinburgh have been changing due to the sudden availability of Generative Artificial Intelligence (GenAI) systems, such as OpenAI's ChatGPT and Microsoft/GitHub's CoPilot.
+The essential aim was to produce primary evidence from students' perspectives that can be used by Course Organisers who are intending to update their programming courses to incorporate limited use of GenAI in a manner that is purposeful, responsible and critical.
+
+The premise of our study is that the experiences and perspectives of the 2024 cohort of undergraduate students are (perhaps uniquely) rich in information that can help educators to navigate a path towards the explicit inclusion of GenAI in the teaching of introductory programming.
+
+Programming courses in the School of Physics & Astronomy are heavily based on project work, either through formative mini-projects or larger projects tied to substantial fractions of the overall course credit.
+This study might also be framed as an inquiry into the use of GenAI for student-driven project work, albeit with the programming focus.
 
 ## Methods
+
+The main inquiry took the form of a series of semi-structured interviews with 24 student participants, whose experiences span the periods before and after the advent of GenAI.
+
+Candidate interviewees were recruited through a survey ($N=172$), with 24 students selected for interview based on a selection process aiming to achieve uniform sampling across yeargroups and a dichotomised proxy for self-identified gender.
+
+The sign-up survey also included Likert-type questions, allowing us to capture a broader snapshot of student attitudes towards GenAI in relation to programming courses.
+
+The interviews were conducted by non-faculty members of the project team, and were held over Microsoft Teams, with the recordings saved to the University of Edinburgh's secure storage.
+
+Student interviews were broadly guided towards an exploration of certain themes identified as potential indicators of deep learning, such as project ownership, while being responsive to new themes emerging from the student participants.
+The interviews were then transcribed and coded; portions of text containing pertinent information were 'tagged' with one or more discrete codes that correspond to themes contained in the text, with a new code created every time a new theme is encountered.
+
 
 
 ## Key Findings
 
+To do.
 
-## Further Reading
 
 
-<!-- {{< include metadata/_endmatter.qmd >}} -->
+{{< include metadata/_endmatter.qmd >}}
