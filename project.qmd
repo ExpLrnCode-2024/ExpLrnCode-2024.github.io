@@ -25,7 +25,7 @@ This study might also be framed as an inquiry into the use of GenAI for student-
 
 The main inquiry took the form of a series of semi-structured interviews with 24 student participants, whose experiences span the periods before and after the advent of GenAI.
 
-Candidate interviewees were recruited through a survey ($N=172$), with 24 students selected for interview based on a selection process aiming to achieve uniform sampling across yeargroups and a dichotomised proxy for self-identified gender.
+Candidate interviewees were recruited through a survey (N=172), with 24 students selected for interview based on a selection process aiming to achieve uniform sampling across yeargroups and a dichotomised proxy for self-identified gender.
 
 The sign-up survey also included Likert-type questions, allowing us to capture a broader snapshot of student attitudes towards GenAI in relation to programming courses.
 
